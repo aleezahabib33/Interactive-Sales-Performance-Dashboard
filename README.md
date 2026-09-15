@@ -102,15 +102,18 @@ Through this project, I practiced:
 
 ### Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard_1.png)
+![Dashboard](Dashboard_2.png)
 
 ### Analysis
 
-![Analysis](Analysis.png)
+![Analysis](Analysis_1.png)
+![Analysis](Analysis_2.png)
 
 ### Visualization
 
-![Visualization](Visualization.png)
+![Visualization](Visualization_1.png)
+![Visualization](Visualization_2.png)
 
 ##  Future Improvements
 
