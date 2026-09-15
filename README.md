@@ -102,15 +102,15 @@ Through this project, I practiced:
 
 ### Dashboard
 
-![Sales Performance Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Analysis
 
-![Analysis Sheet](Analysis.png)
+![Analysis](Analysis.png)
 
 ### Visualization
 
-![Charts and Slicers](visualization.png)
+![Visualization](Visualization.png)
 
 ##  Future Improvements
 
