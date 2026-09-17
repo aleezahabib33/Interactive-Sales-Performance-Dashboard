@@ -73,17 +73,6 @@ The dashboard contains three slicers:
 
 Users can select one or multiple filters and the dashboard updates the connected KPIs, Pivot Tables, and charts.
 
-##  Project Structure
-
-```text
-Interactive-Sales-Performance-Dashboard/
-│
-├── Sales_Performance_Dashboard.xlsx
-├── Dashboard.png
-├── Analysis.png
-├── Visualization.png
-└── README.md
-```
 
 ##  Key Learning Outcomes
 
