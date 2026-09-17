@@ -89,11 +89,6 @@ Through this project, I practiced:
 
 ##  Project Preview
 
-### Dashboard
-
-![Dashboard](Dashboard_1.png)
-![Dashboard](Dashboard_2.png)
-
 ### Analysis
 
 ![Analysis](Analysis_1.png)
@@ -103,6 +98,11 @@ Through this project, I practiced:
 
 ![Visualization](Visualization_1.png)
 ![Visualization](Visualization_2.png)
+
+### Dashboard
+
+![Dashboard](Dashboard_1.png)
+![Dashboard](Dashboard_2.png)
 
 ##  Future Improvements
 
